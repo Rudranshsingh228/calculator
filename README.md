@@ -21,7 +21,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/muskan574/calculator.git
+    git clone https://github.com/rudranshsingh228/calculator.git
     ```
 2. Navigate to the project directory:
     ```sh
